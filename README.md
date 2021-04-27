@@ -1,1 +1,2 @@
-# Space_Invaders
+# space_invaders_phaser
+Space Invaders made in PhaserJS
